@@ -1,0 +1,6 @@
+D:\WORK\home\Programming\Projects\ScanInnov\ScanInnov\bin\Release\ScanInnov.exe.config
+D:\WORK\home\Programming\Projects\ScanInnov\ScanInnov\bin\Release\ScanInnov.exe
+D:\WORK\home\Programming\Projects\ScanInnov\ScanInnov\bin\Release\ScanInnov.pdb
+D:\WORK\home\Programming\Projects\ScanInnov\ScanInnov\obj\Release\ScanInnov.csprojResolveAssemblyReference.cache
+D:\WORK\home\Programming\Projects\ScanInnov\ScanInnov\obj\Release\ScanInnov.exe
+D:\WORK\home\Programming\Projects\ScanInnov\ScanInnov\obj\Release\ScanInnov.pdb

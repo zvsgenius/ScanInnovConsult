@@ -1,0 +1,12 @@
+D:\WORK\home\Programming\Projects\ScanInnov\ScanInnov\bin\Debug\ScanInnov.exe.config
+D:\WORK\home\Programming\Projects\ScanInnov\ScanInnov\bin\Debug\ScanInnov.exe
+D:\WORK\home\Programming\Projects\ScanInnov\ScanInnov\bin\Debug\ScanInnov.pdb
+D:\WORK\home\Programming\Projects\ScanInnov\ScanInnov\obj\Debug\ScanInnov.csprojResolveAssemblyReference.cache
+D:\WORK\home\Programming\Projects\ScanInnov\ScanInnov\obj\Debug\ScanInnov.exe
+D:\WORK\home\Programming\Projects\ScanInnov\ScanInnov\obj\Debug\ScanInnov.pdb
+D:\WORK\home\Programming\Projects\ScanInnovConsult\ScanInnov\bin\Debug\ScanInnov.exe.config
+D:\WORK\home\Programming\Projects\ScanInnovConsult\ScanInnov\obj\Debug\ScanInnov.exe
+D:\WORK\home\Programming\Projects\ScanInnovConsult\ScanInnov\obj\Debug\ScanInnov.pdb
+D:\WORK\home\Programming\Projects\ScanInnovConsult\ScanInnov\bin\Debug\ScanInnov.exe
+D:\WORK\home\Programming\Projects\ScanInnovConsult\ScanInnov\bin\Debug\ScanInnov.pdb
+D:\WORK\home\Programming\Projects\ScanInnovConsult\ScanInnov\obj\Debug\ScanInnov.csprojResolveAssemblyReference.cache
